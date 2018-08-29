@@ -1,0 +1,3 @@
+python -m spacy download en
+python -m sapcy download en_core_web_lg
+python -m ipykernel install --user --name=jamakuan
